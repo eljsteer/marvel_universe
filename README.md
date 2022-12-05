@@ -39,7 +39,7 @@ JavaScript:
 - Writing of code for logging user selections to local storage and displaying in the search history section of the page
 
 ## Website URL
-[Click here to view website](https://mdkgray.github.io/marvel_universe/)
+[Click here to view website](https://eljsteer.github.io/marvel_universe/)
 
 ## Project Status
 The application is deployed on the GitHub repository and URL above
